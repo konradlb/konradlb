@@ -17,7 +17,9 @@ I have graduated from Electrotechnics in the Department of Electrical Engineerin
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+
 [![Git Badge](https://img.shields.io/badge/-Git-f34f29?style=for-the-badge&logo=git&labelColor=black&logoColor=f34f29)](#)
+[![VSC Badge](https://img.shields.io/badge/VS-Code-0078d7?style=for-the-badge&logo=Visual-Studio-Code&labelColor=black&logoColor=0078d7)](#)
 [![Webpack Badge](https://img.shields.io/badge/-Webpack-1c78c0?style=for-the-badge&logo=Webpack&labelColor=black&logoColor=1c78c0)](#)
 [![Eslint Badge](https://img.shields.io/badge/-Eslint-4930BD?style=for-the-badge&logo=Eslint&labelColor=black&logoColor=4930BD)](#)
 [![Prettier Badge](https://img.shields.io/badge/-Prettier-1E2B33?style=for-the-badge&logo=Prettier&labelColor=black&logoColor=gray)](#)
@@ -25,3 +27,7 @@ I have graduated from Electrotechnics in the Department of Electrical Engineerin
 ### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=konradlu.konradlu)
+
+### Profile stats
+
+[![Konradlu GitHub stats](https://github-readme-stats.vercel.app/api?username=konradlu)](https://github.com/anuraghazra/github-readme-stats)
