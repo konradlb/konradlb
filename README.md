@@ -6,19 +6,18 @@ I have graduated from Electrotechnics in the Department of Electrical Engineerin
 
 :mailbox: Let's contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-konrad@lubowicki.pl-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:konrad@lubowicki.pl)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubowicki) [![Mail Badge](https://img.shields.io/badge/-konrad@lubowicki.pl-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:konrad@lubowicki.pl)
 
 ## Technologies
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#)
-[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&labelColor=black&link)](#)
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&labelColor=black&logoColor=1572B6)](#)
 [![Sass Badge](https://img.shields.io/badge/-Sass-cd6799?style=for-the-badge&logo=Sass&labelColor=black&logoColor=cd6799)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/olafsulich/)](#)
-[![CircleCI](https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=CircleCI&logoColor=white)](#)
-[![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](#)
-[![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](#)
-[![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-f34f29?style=for-the-badge&logo=git&labelColor=black&logoColor=f34f29)](#)
+[![Webpack Badge](https://img.shields.io/badge/-Webpack-1c78c0?style=for-the-badge&logo=Webpack&labelColor=black&logoColor=1c78c0)](#)
+[![Eslint Badge](https://img.shields.io/badge/-Eslint-4930BD?style=for-the-badge&logo=Eslint&labelColor=black&logoColor=4930BD)](#)
+[![Prettier Badge](https://img.shields.io/badge/-Prettier-1E2B33?style=for-the-badge&logo=Prettier&labelColor=black&logoColor=1E2B33)](#)
