@@ -6,7 +6,10 @@ I have graduated from Electrotechnics in the Department of Electrical Engineerin
 
 :mailbox: Let's contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubowicki) [![Mail Badge](https://img.shields.io/badge/-konrad@lubowicki.pl-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:konrad@lubowicki.pl)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubowicki)
+[![Mail Badge](https://img.shields.io/badge/-konrad@lubowicki.pl-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:konrad@lubowicki.pl)
+
+<!-- [![CodePen Badge](https://img.shields.io/badge/-CodePen-black?style=flat&labelColor=black&logo=codepen&logoColor=white)](https://codepen.io/konradlu) -->
 
 ## Technologies
 
@@ -23,11 +26,12 @@ I have graduated from Electrotechnics in the Department of Electrical Engineerin
 [![Webpack Badge](https://img.shields.io/badge/-Webpack-1c78c0?style=for-the-badge&logo=Webpack&labelColor=black&logoColor=1c78c0)](#)
 [![Eslint Badge](https://img.shields.io/badge/-Eslint-4930BD?style=for-the-badge&logo=Eslint&labelColor=black&logoColor=4930BD)](#)
 [![Prettier Badge](https://img.shields.io/badge/-Prettier-1E2B33?style=for-the-badge&logo=Prettier&labelColor=black&logoColor=gray)](#)
+[![Prettier Badge](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=for-the-badge&logo=Linux-Mint&labelColor=black&logoColor=87CF3E)](#)
 
 ### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=konradlu.konradlu)
 
-### Profile stats
+<!-- ### Profile stats
 
-[![Konradlu GitHub stats](https://github-readme-stats.vercel.app/api?username=konradlu)](https://github.com/anuraghazra/github-readme-stats)
+[![Konradlu GitHub stats](https://github-readme-stats.vercel.app/api?username=konradlu)](https://github.com/anuraghazra/github-readme-stats) -->
