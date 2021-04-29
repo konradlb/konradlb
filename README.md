@@ -15,11 +15,12 @@ I have graduated from Electrotechnics in the Department of Electrical Engineerin
 
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&labelColor=black&logoColor=1572B6)](#)
-[![Sass Badge](https://img.shields.io/badge/-Sass-cd6799?style=for-the-badge&logo=Sass&labelColor=black&logoColor=cd6799)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/-bootstrap-7952b3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952b3)](#)
+[![Sass Badge](https://img.shields.io/badge/-Sass-cd6799?style=for-the-badge&logo=Sass&labelColor=black&logoColor=cd6799)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![Protractor Badge](https://img.shields.io/badge/-Protractor-e23237?style=for-the-badge&labelColor=black&logo=protractor&logoColor=e23237)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-f34f29?style=for-the-badge&logo=git&labelColor=black&logoColor=f34f29)](#)
 [![VSC Badge](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=Visual-Studio-Code&labelColor=black&logoColor=0078d7)](#)
@@ -35,3 +36,5 @@ I have graduated from Electrotechnics in the Department of Electrical Engineerin
 <!-- ### Profile stats
 
 [![Konradlu GitHub stats](https://github-readme-stats.vercel.app/api?username=konradlu)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- https://simpleicons.org -->
