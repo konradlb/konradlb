@@ -6,28 +6,30 @@ I have graduated from Electrotechnics in the Department of Electrical Engineerin
 
 :mailbox: Let's contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubowicki)
-[![Mail Badge](https://img.shields.io/badge/-konrad@lubowicki.pl-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:konrad@lubowicki.pl)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubowicki)
+[![Mail Badge](https://img.shields.io/badge/-konrad@lubowicki.pl-c0392b?style=for-the-badge&labelColor=black&logo=gmail&logoColor=white)](mailto:konrad@lubowicki.pl)
 
 <!-- [![CodePen Badge](https://img.shields.io/badge/-CodePen-black?style=flat&labelColor=black&logo=codepen&logoColor=white)](https://codepen.io/konradlu) -->
 
 ## Technologies
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
-[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&labelColor=black&logoColor=1572B6)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Bootstrap Badge](https://img.shields.io/badge/-bootstrap-7952b3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952b3)](#)
-[![Sass Badge](https://img.shields.io/badge/-Sass-cd6799?style=for-the-badge&logo=Sass&labelColor=black&logoColor=cd6799)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![Protractor Badge](https://img.shields.io/badge/-Protractor-e23237?style=for-the-badge&labelColor=black&logo=protractor&logoColor=e23237)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Git Badge](https://img.shields.io/badge/-Git-f34f29?style=for-the-badge&logo=git&labelColor=black&logoColor=f34f29)](#)
-[![VSC Badge](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=Visual-Studio-Code&labelColor=black&logoColor=0078d7)](#)
-[![Webpack Badge](https://img.shields.io/badge/-Webpack-1c78c0?style=for-the-badge&logo=Webpack&labelColor=black&logoColor=1c78c0)](#)
-[![Eslint Badge](https://img.shields.io/badge/-Eslint-4930BD?style=for-the-badge&logo=Eslint&labelColor=black&logoColor=4930BD)](#)
-[![Prettier Badge](https://img.shields.io/badge/-Prettier-1E2B33?style=for-the-badge&logo=Prettier&labelColor=black&logoColor=gray)](#)
-[![Prettier Badge](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=for-the-badge&logo=Linux-Mint&labelColor=black&logoColor=87CF3E)](#)
+<img src="images/html5.svg" alt="html5 badge">
+<img src="images/css3.svg" alt="css3 badge">
+<img src="images/js.svg" alt=" badge">
+<img src="images/reactjs.svg" alt=" badge">
+<img src="images/boostrap.svg" alt=" badge">
+<img src="images/sass.svg" alt=" badge">
+<img src="images/typescript.svg" alt=" badge">
+<img src="images/protracotr.svg" alt=" badge">
+<img src="images/nodejs.svg" alt=" badge">
+<img src="images/git.svg" alt=" badge">
+<img src="images/vscode.svg" alt=" badge">
+<img src="images/webpack.svg" alt=" badge">
+<img src="images/eslint.svg" alt=" badge">
+<img src="images/pretier.svg" alt=" badge">
+<img src="images/linuxmint.svg" alt=" badge">
+
+[![Protractor Badge](https://img.shields.io/badge/-Protractor-e23237?style=for-the-badge&labelColor=black&logo=product-hunt&logoColor=e23237)](#)
 
 ### Profile Visits
 
