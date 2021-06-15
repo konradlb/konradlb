@@ -6,7 +6,8 @@ I have graduated from Electrotechnics in the Department of Electrical Engineerin
 
 :mailbox: Let's contact
 
-[![Linkedin Badge](images/linkedin.svg)](https://www.linkedin.com/in/lubowicki)[![Mail Badge](images/mailto.svg)](mailto:konrad@lubowicki.pl)
+[![Linkedin Badge](images/linkedin.svg)](https://www.linkedin.com/in/lubowicki)
+[![Mail Badge](images/mailto.svg)](mailto:konrad@lubowicki.pl)
 
 <!-- [![CodePen Badge](https://img.shields.io/badge/-CodePen-black?style=flat&labelColor=black&logo=codepen&logoColor=white)](https://codepen.io/konradlu) -->
 
@@ -21,7 +22,7 @@ I have graduated from Electrotechnics in the Department of Electrical Engineerin
 [![Typescript Badge](images/typescript.svg)](#)
 [![Protractor Badge](images/protractor.svg)](#)
 [![Nodejs Badge](images/nodejs.svg)](#)
-[![Git Badge](images/nodejs.svg)](#)
+[![Git Badge](images/git.svg)](#)
 [![VSC Badge](images/vscode.svg)](#)
 [![Webpack Badge](images/webpack.svg)](#)
 [![Eslint Badge](images/eslint.svg)](#)
