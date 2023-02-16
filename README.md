@@ -29,6 +29,8 @@ I have graduated from Electrotechnics in the Department of Electrical Engineerin
 [![Prettier Badge](images/pretier.svg)](#)
 [![Linux Mint Badge](images/linuxmint.svg)](#)
 
+<!-- badge example: https://img.shields.io/badge/Apollo%20GraphQL-E10098?&style=for-the-badge&labelColor=black&logo=Apollo%20GraphQL&logoColor=E10098 -->
+
 ### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=konradlu.konradlu)
